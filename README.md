@@ -12,25 +12,9 @@ Soy estudiante de la **Licenciatura en Desarrollo y Gestión de Software** en la
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td bgcolor="#0D1117" width="100%">
-      <p align="center">
-        <img src="https://img.shields.io/badge/richard@arch-8B949E?style=flat-square&amp;logo=archlinux&amp;logoColor=1793D1" alt="richard@arch" />
-        <img src="https://img.shields.io/badge/zsh-4EAA25?style=flat-square&amp;logo=zsh&amp;logoColor=white" alt="zsh" />
-      </p>
-      <pre align="center">
-                  /\              richard@arch
-                 /  \             ------------
-                /\   \            OS:       Arch Linux x86_64
-               /      \           WM:       Hyprland
-              /   ,,   \          Shell:    zsh + oh-my-zsh
-             /   |  |   \         Terminal: kitty
-            /_-&#39;&#39;    &#39;&#39;-_\        Editor:   VS Code / Insiders
-      </pre>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/terminal.png" alt="Terminal: richard@arch — Arch Linux x86_64, Hyprland, zsh + oh-my-zsh, kitty, VS Code / Insiders" width="568" />
+</p>
 
 ## 🎓 Universidad
 
