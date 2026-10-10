@@ -21,12 +21,12 @@ Soy estudiante de la **Licenciatura en Desarrollo y Gestión de Software** en la
       </p>
       <pre align="center">
                   /\              richard@arch
-                 /  \             -----------
+                 /  \             ------------
                 /\   \            OS:       Arch Linux x86_64
                /      \           WM:       Hyprland
               /   ,,   \          Shell:    zsh + oh-my-zsh
-             /   |  |  \          Terminal: kitty
-            /_-&#39;&#39;    &#39;&#39;-_&#39;         Editor:   VS Code / Insiders
+             /   |  |   \         Terminal: kitty
+            /_-&#39;&#39;    &#39;&#39;-_\        Editor:   VS Code / Insiders
       </pre>
     </td>
   </tr>
